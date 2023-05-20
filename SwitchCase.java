@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SwithCase {
+public class SwitchCase {
     public static void main(String[] args) {
         /*Try To SwithCase Use Some Example */
 
@@ -13,7 +13,7 @@ public class SwithCase {
             switch (Days) {
 
                 case 1 : if(Days == 1){
-                     System.out.println("Monday");
+                    System.out.println("Monday");
                 }
 
                 case 2 : if (Days == 2){
